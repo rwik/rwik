@@ -1,7 +1,7 @@
 Hi there 👋 I'm Rwik,
 
 - 👀 I’m interested in ideas
-- 🌱 I’m currently learning various tesch stacks.
+- 🌱 I’m currently learning various tech stacks.
 - 💞️ I’m looking to collaborate on open source projects with social impact.
 - 📫 Rech me for Golang ventures
 
