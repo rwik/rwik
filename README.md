@@ -1,9 +1,9 @@
 Hi there 👋 I'm Rwik,
 
-- 👀 I’m interested in innovative/disruptive ideas
-- 🌱 I’m currently learning things related to backend and blockchain.
+- 👀 I’m interested in ideas
+- 🌱 I’m currently learning various tesch stacks.
 - 💞️ I’m looking to collaborate on open source projects with social impact.
-- 📫 Rech me if you want to talk about anything!
+- 📫 Rech me for Golang ventures
 
 **Social Media:**
 
