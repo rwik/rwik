@@ -9,6 +9,7 @@ Hi there 👋 I'm Rwik,
 
 
 [![GitHub](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/rwik) [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/rwik) [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/rwikee/) [![Instagram](https://img.shields.io/badge/-instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/whatrwikate/) [![leetcode](https://img.shields.io/badge/-leetcode-black?style=flat-square&logo=leetcode)](https://www.leetcode.com/rwikee/)
+[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://codegrower.hashnode.dev/) 
  [![geeksforgeeks](https://img.shields.io/badge/-geeksforgeeks-black?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/rwikee/)
 
 **Technologies:**
